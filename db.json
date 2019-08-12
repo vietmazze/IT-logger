@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "nahhhhhh yea",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-08-10T19:25:42.607Z"
+    },
+    {
+      "message": "sssssssssssss",
+      "attention": false,
+      "tech": "Sam Smit",
+      "date": "2019-08-09T20:53:40.097Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Machi",
+      "id": 4
+    },
+    {
+      "firstName": "Home",
+      "lastName": "Lmer",
+      "id": 5
+    }
+  ]
+}
